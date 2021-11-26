@@ -12,3 +12,5 @@ You can also select the Labels button to filter the results.
 If you can't find what you're looking for you can [Create a New Issue](https://github.com/migaku-official/migaku-browser-extension-issue-tracker/issues/new)
 
 To create a good Issue you should follow one of the templates that we provide.
+
+Please don't make feature requests through this repo as they will be ignored.
