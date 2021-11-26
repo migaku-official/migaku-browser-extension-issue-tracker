@@ -7,7 +7,7 @@ There are 2 types of Issue: 'Open' and 'Closed'.
  - A **Closed Issue** is one where the issue **has been resolved**.
  - An **Open Issue** is one that **has not been resolved yet**.
 
-If you can't find what you're looking for you can [Create a New Issue](https://github.com/migaku-official/migaku-browser-extension-issue-tracker/issues/new?assignees=&labels=&template=bug_report.md&title=)
+If you can't find what you're looking for you can [Create a New Issue](https://github.com/migaku-official/migaku-browser-extension-issue-tracker/issues/new/choose)
 
 To create a good Issue you should follow one of the templates that we provide.
 
